@@ -1,2 +1,2 @@
 # Responsive-Website
-Resonsive Website Design
+Landing Page Design 
